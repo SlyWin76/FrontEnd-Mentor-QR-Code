@@ -1,0 +1,33 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.divprojet{
+    width: 15%;
+    height: 25%;
+    background-color: hsl(0, 0%, 100%);
+    margin: 14% auto;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.qrcode{
+    width: 90%;
+    margin: 2% 2% 0 2%;
+    border-radius: 10px;
+}
+
+.titre{
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+}
+
+.description{
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+}
+
+p{
+    font-size: 15px;
+}
